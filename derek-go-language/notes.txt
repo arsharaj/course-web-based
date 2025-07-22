@@ -1,0 +1,11 @@
+# Why Go Language
+
+- General purpose language
+- Great backend language
+- Excels at concurrency
+- Easy to understand
+- Many built in features
+- Strong typing
+- Memory freed automatically
+- Fast compile time
+- Cross Platform
