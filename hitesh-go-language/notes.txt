@@ -1,0 +1,45 @@
+- go language is compiled.
+- go tool can run file directly, without vm.
+- executables are different for os.
+- go can build system apps to web apps - cloud.
+- already in production.
+- do not bring baggage of other languages.
+- go language is not entirely object oriented.
+- what you see on the screen is the code.
+- there is no try catch in go language.
+- lexer does a lot of work.
+- types are case insensitive.
+- variable type should be known in advance.
+- everything is a type.
+  - string
+  - bool
+  - integer : uint8, uint64, int8, int64, uintptr
+  - floating : float32, float64
+  - complex
+  - array
+  - slices
+  - maps
+  - structs
+  - pointers
+  - functions
+  - channels, etc
+- memory allocation and deallocation happens automatically.
+- new ()
+  - allocate memory but no init
+  - you will get a memory address
+  - zeroed storage
+- make ()
+  - allocate memory and init
+  - you will get a memory address
+  - non zeroed storage
+- gc happens automatically
+- out of scope or nil
+- https://pkg.go.dev/runtime
+- no inheritance in go language or super or parent
+- go language uses semantic versioning.
+- concurrency vs parallelism
+- threads vs goroutines
+  - threads are manageed by os with fixed stack of 1 mb
+  - goroutines are manageed by go runtime with flexible stack of 2 kb
+- do not communicate by sharing memory, instead, share memory by communicating.
+- channels are a way by which multiple goroutines talk to each other.
