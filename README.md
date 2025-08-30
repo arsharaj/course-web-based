@@ -5,6 +5,7 @@
 ### Table of Contents
 
 - Derek : Go Language
+- Hitesh : Go Language
 - Princeton : Algorithms Part One
 - Telusko : Core Java
 - Telusko : Junit Testing
