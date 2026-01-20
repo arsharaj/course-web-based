@@ -1,0 +1,33 @@
+@import "lib/reset.css";
+@import "components/avatar/avatar.css";
+@import "components/badge/badge.css";
+@import "components/panel/panel.css";
+
+body {
+    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+}
+
+main,
+x-header {
+    margin: 1em;
+    padding: 1em;
+    border: 1px dashed black;
+}
+
+button {
+    font-family: inherit;
+    font-size: 100%;
+    margin-left: 0.5em;
+}
+
+santas-form {
+    display: block
+}
+
+santas-form * {
+    vertical-align: middle;
+}
+
+santas-app h1 {
+    color: darkred;
+}

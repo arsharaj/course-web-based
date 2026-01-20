@@ -8,6 +8,7 @@
 - Derek : Go Language
 - Freecodecamp : Technical Writing
 - Hitesh : Go Language
+- Joeri : Plain Vanilla Web
 - Princeton : Algorithms Part One
 - Telusko : Core Java
 - Telusko : Junit Testing
