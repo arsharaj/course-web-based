@@ -3,7 +3,12 @@
 
 target/
 
+admin_access_keys.csv
+admin_credentials.csv
+credentials_report.csv
+credentials.txt
 .classpath
 .project
 
+*.pem
 *.class

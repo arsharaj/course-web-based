@@ -10,6 +10,7 @@
 - Hitesh : Go Language
 - Joeri : Plain Vanilla Web
 - Matt Martz : Cloud Platform Aws Cdk
+- Prashant : Cloud Platform Aws
 - Princeton : Algorithms Part One
 - Telusko : Core Java
 - Telusko : Junit Testing

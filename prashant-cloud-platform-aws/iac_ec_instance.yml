@@ -1,0 +1,10 @@
+Resources:
+  SimpleEC2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: t3.micro
+      ImageId: ami-0fa3fe0fa7920f68e
+      Tags:
+        - Key: Name
+          Value: arsharaj-learn-2
+
