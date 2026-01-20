@@ -6,6 +6,7 @@
 
 - Backspace : Cloud Platform Aws
 - Derek : Go Language
+- Freecodecamp : Technical Writing
 - Hitesh : Go Language
 - Princeton : Algorithms Part One
 - Telusko : Core Java
